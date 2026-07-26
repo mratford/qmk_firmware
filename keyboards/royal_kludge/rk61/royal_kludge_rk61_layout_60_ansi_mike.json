@@ -7,7 +7,7 @@
   "layout": "LAYOUT_60_ansi",
   "layers": [
     [
-      "KC_GRV",
+      "HYPR_T(KC_GRV)",
       "KC_1",
       "KC_2",
       "KC_3",
@@ -133,7 +133,7 @@
       "KC_TRNS"
     ],
     [
-      "KC_NO",
+      "HYPR(KC_ESC)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -161,7 +161,7 @@
       "KC_NO",
       "KC_NO",
       "KC_TRNS",
-      "KC_NO",
+      "MEH_T(KC_ESC)",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT",
@@ -173,7 +173,7 @@
       "KC_RGHT",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_ENT",
       "KC_LSFT",
       "KC_LGUI",
       "KC_LALT",
@@ -185,7 +185,7 @@
       "KC_RCTL",
       "KC_RALT",
       "KC_RGUI",
-      "KC_NO",
+      "KC_RSFT",
       "KC_LCTL",
       "KC_LALT",
       "KC_LGUI",
