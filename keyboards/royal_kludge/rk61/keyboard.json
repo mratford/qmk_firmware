@@ -71,10 +71,6 @@
             "starlight_smooth": true,
             "typing_heatmap": true
         },
-        "default": {
-            "hue": 170,
-            "val": 150
-        },
         "driver": "ws2812",
         "layout": [
             {"matrix": [0, 13], "x": 218, "y": 0, "flags": 1},
